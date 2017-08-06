@@ -1,6 +1,4 @@
-# StreetEasy Frontend Developer Work Sample
 
-Hello! Thanks for your interest in applying for the frontend developer position at StreetEasy. This is the work sample that we use to evaluate your development skills. We've kept it as close as possible to how we normally work and hope it gives you a feel for the tools and workflow we regularly use.
 
 ## Instructions
 
